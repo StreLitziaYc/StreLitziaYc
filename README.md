@@ -8,4 +8,9 @@
 ---
 
 ### 📊 GitHub Stats
-![StreLitziaYc's GitHub stats](https://github-readme-stats.vercel.app/api?username=StreLitziaYc&show_icons=true&theme=tokyonight)
+![StreLitziaYc's Streak](https://github-readme-stats.vercel.app/api?username=StreLitziaYc&show_icons=true&theme=tokyonight)
+
+---
+
+### 🏆 Achievements
+![Trophies](https://github-profile-trophy.vercel.app/?username=StreLitziaYc&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
